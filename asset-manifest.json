@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactiveChat/static/css/main.a6898ae7.css",
+    "main.js": "/ReactiveChat/static/js/main.283ea5ae.js",
+    "static/js/787.7ea0274a.chunk.js": "/ReactiveChat/static/js/787.7ea0274a.chunk.js",
+    "static/media/logo.svg": "/ReactiveChat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactiveChat/index.html",
+    "main.a6898ae7.css.map": "/ReactiveChat/static/css/main.a6898ae7.css.map",
+    "main.283ea5ae.js.map": "/ReactiveChat/static/js/main.283ea5ae.js.map",
+    "787.7ea0274a.chunk.js.map": "/ReactiveChat/static/js/787.7ea0274a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6898ae7.css",
+    "static/js/main.283ea5ae.js"
+  ]
+}
